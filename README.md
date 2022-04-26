@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sam Hendrickson</h1>
+<h1 align="center">Hi 👋, I'm HendriSA</h1>
 <h3 align="center">A passionate Cyber Security student!</h3>
 
 - 🔭 I’m currently working on **WSB-TOOLS**
 
-- 🌱 I’m currently an **Alfred State College student pursuing a Bachelors degree in Cyber Security**
+- 🌱 I’m currently a **College student pursuing a Bachelors degree in Cyber Security**
 
 - 👯 I’m looking to collaborate on **Python, Bash, C#, and Web Development projects**
 
