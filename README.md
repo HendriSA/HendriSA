@@ -11,7 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HendriSA](https://github.com/HendriSA)
 
-- 📫 How to reach me: **samuel.a.hendrickson@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p>
