@@ -19,6 +19,5 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/samuel-hendrickson3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-hendrickson3" height="30" width="40" /></a>
 <a href="https://tryhackme.com/p/HendriSA98" target="blank"><img align="center" src="https://tryhackme.com/img/favicon.png" alt="https://tryhackme.com/p/HendriSA98" height="40" width="40" /></a>
 </p>
