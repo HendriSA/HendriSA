@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm HendriSA</h1>
 
-- 🔭 I’m currently working on **WSB-TOOLS**
-
 - 👯 I’m looking to collaborate on **Python, Bash, C#, and Web Development projects**
-
-- 🤝 I’m looking for help with **WSB-TOOLS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HendriSA](https://github.com/HendriSA)
 
